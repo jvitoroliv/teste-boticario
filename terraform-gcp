@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bigquery-boticario",
+  "private_key_id": "5d2727435bed15feaedd7be7ede11892af47e213",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCxbsjkBqnBGdek\nJSPDGkWX1Agr2gz00wSr164rl4hNR6g76kXRjl/zwuKsWhb73bVJrQRqweRmHYYz\nYgKw6IJ/ZCoV2dMeYP4hXdxPaIqhq2sXCmROkwNvMo2C4AeP2XRgaKCK3EiAlzAl\nCXXTzKRDWvOUftN57NHFEU5iI9NblgIAdMVQ+WH+9NSSHYMmTs6C//janS0IV644\nLjWuItVamM52RaCYeIZVpVK+KM6V7rM2O20ZEcm349iXTnsfEDwpa9FhFF5h+M3F\nL4DsH4wRBf9d/SYGH9eyMbrKZ+kI/7xVU3CCm7q4idJXRh1AoKIt4qzy0CeVMipV\nKZikGeqtAgMBAAECggEAL+L17fDMbNTEKcVqRvQ2txjfEbK6T3MKLjS6CYLOowjF\nY1JBgKKby+ablaeEz3oRPO6opAVrVpH+T6zSjBtcaPRIFXih7W+A9tFlrbrJu4NP\nljrUQo6T3TV4EsvSzqSCL6jdN0zndmkXcc+BUOXIqXMJDVlDSwM6xCR9EqiXmP5K\nr6IevK99tYDhLsytZpbH7RVei0B4nF/BO2Dw5pgwmClih+ajpluWKO/GOE2iNWqL\n2IKqYCd12ORqs9WZbjh9/MaYmdIwLPKsdPEa6YB8CAqQuB107UMsECVPdtGtpCCe\nT0pYcmuCTwJb8mB6nB4cAhUHnHmY3kR4PJWF/ArjIwKBgQDdr5UK+z6lzIjH+4t/\n5mxcaDi5SN95iuMrUWB3nZNoIdQTAkvBB0i6anp7ZYkeMWdWU44SAOiRYI259tgf\nhtNuQlwJQcY7wWyzYpfCOb2YDh4oxZGF6lHGcxiMm8SBDnMrKgKKuoCeiSxx3fml\nNzwS4cmAU1HPK+lqqX8drNivxwKBgQDM5aZbV0R+1FQdUv0G3w3hZokawRONfCH7\nXquyXMMNBpqILwsnaAj+K5b/14ePwRVFjajgwKRjuGnf5SCieVhO5M11bdz5aXEN\nsLDbyXgnsEhBxrnPhyG6Cf82nkydzRzvExek7A0tEW5ej1XvTALaxhZxeS+4aKDD\nEjFDiAj56wKBgQDM5eLeOYaX/EpYfPldB/8UEgiLyP00+9goS5jcNjruvoWj5DVc\nfn0MQCphL2HjFEqtEaF4pnpPFG0qeysbSKTXfmJO9ApjZM4xp2kZTgEdL79Uc/ej\nTQa0Y+FG5RplJpPwS236B5Ol9KetvztlJ35Q/XwfLeOplq6xtWQWa5IENQKBgDJR\nGx9HOPzka5uf658qW6BEq9q0G3cdSsMOJp/wg73JJ13WH6kXtU2lqrk9Vn8I7Y5d\nEWHQLQ6IFQf0nqUHo5YMPiBeUGu3ZxnzkBsJSMaGVdhBUxQRnUiwd8oT6cC+xCI5\n0A6iIUI2C6KRFItlYTYUeyJ2ni9tEj2VVB+/YmTtAoGAcmHxx/Dbrjkeikdhz5y1\nQZJ1Vorl5ntDB/fSMNo/ouz8Kvx6xzNaau1EuCgmwJGz9VrBwsgTgYLn4N6R3y6i\nrdKWzGFMqhBMwNQyz5iCbE7TZ/7QFAe0BMBfDHyoJagpJX3y+lUmvGsMEXfgSskU\n5+3pPiLXsB0gbTEo75rr2/s=\n-----END PRIVATE KEY-----\n",
+  "client_email": "terraform@bigquery-boticario.iam.gserviceaccount.com",
+  "client_id": "105651791672717353938",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform%40bigquery-boticario.iam.gserviceaccount.com"
+}
